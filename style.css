@@ -1,0 +1,28 @@
+body{
+background-color:black;
+width: 100%;
+height: 100%;
+margin: 0 auto;
+
+}
+.out{
+    background-color:black;
+    width: 980px;
+    float:left;
+    position:relative;
+
+}
+.main{
+    width: 980px;
+    float:left;
+    position:relative;
+}
+.logo{
+    padding: 10px;
+  
+}.produtos{
+    background-color: black;
+    width:100%;
+    border-bottom: 3px solid rgb(51, 51, 51);
+}
+
