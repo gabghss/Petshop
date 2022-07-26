@@ -19,10 +19,12 @@ margin: 0 auto;
 }
 .logo{
     padding: 10px;
+    position:fixed;right:-90px;
   
 }.produtos{
     background-color: black;
     width:100%;
-    border-bottom: 3px solid rgb(51, 51, 51);
+    border-bottom: 3px solid rgb(255, 255, 255);
+}.opcoes{
+    
 }
-
